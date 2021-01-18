@@ -1,5 +1,5 @@
 {
-  "name": "swagger-typescript-api",
+  "name": "@wynnyo/swagger-typescript-api",
   "version": "4.0.4",
   "description": "Create typescript api module from swagger schema",
   "scripts": {
@@ -84,7 +84,7 @@
     "LICENSE"
   ],
   "bugs": {
-    "url": "https://github.com/acacode/swagger-typescript-api/issues"
+    "url": "https://github.com/wynnyo/swagger-typescript-api/issues"
   },
-  "homepage": "https://github.com/acacode/swagger-typescript-api"
+  "homepage": "https://github.com/wynnyo/swagger-typescript-api"
 }
